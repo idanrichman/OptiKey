@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.352
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuliusSweetland.OptiKey", "src\JuliusSweetland.OptiKey\JuliusSweetland.OptiKey.csproj", "{6865C5AF-C6F0-4BDA-BA1C-7AE8BC225234}"
 EndProject
@@ -76,13 +76,6 @@ Global
 		{0C8F0372-2D55-41BC-9730-4ACE3ED67452}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
 		{0C8F0372-2D55-41BC-9730-4ACE3ED67452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C8F0372-2D55-41BC-9730-4ACE3ED67452}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.All|Any CPU.ActiveCfg = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.All|Any CPU.Build.0 = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.Debug|Any CPU.ActiveCfg = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.Release|Any CPU.ActiveCfg = DefaultBuild
-		{7CFA84D1-2AC8-4D37-B03A-5D64FB06C00C}.Release|Any CPU.Build.0 = DefaultBuild
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
