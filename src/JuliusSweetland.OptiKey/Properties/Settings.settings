@@ -233,6 +233,9 @@
     <Setting Name="KeySelectionTriggerFixationResumeRequiresLockOn" Roaming="true" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
+	<Setting Name="KeySelectionTriggerFixationResetMousePositionAfterKeyPressed" Roaming="true" Type="System.Boolean" Scope="User">
+	  <Value Profile="(Default)">False</Value>
+	</Setting>
     <Setting Name="MainWindowFullDockThicknessAsPercentageOfScreen" Roaming="true" Type="System.Double" Scope="User">
       <Value Profile="(Default)">50</Value>
     </Setting>

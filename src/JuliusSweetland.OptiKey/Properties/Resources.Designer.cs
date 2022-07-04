@@ -19,7 +19,7 @@ namespace JuliusSweetland.OptiKey.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -4854,6 +4854,15 @@ namespace JuliusSweetland.OptiKey.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reset mouse position after key is pressed (useful for touchscreens).
+        /// </summary>
+        public static string RESET_MOUSE_POSITION_AFTER_KEY_PRESSED {
+            get {
+                return ResourceManager.GetString("RESET_MOUSE_POSITION_AFTER_KEY_PRESSED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Restart.
         /// </summary>
         public static string RESTART {
@@ -5954,6 +5963,15 @@ namespace JuliusSweetland.OptiKey.Properties {
         public static string TONE_SOUND_4 {
             get {
                 return ResourceManager.GetString("TONE_SOUND_4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Touch Screen position.
+        /// </summary>
+        public static string TOUCHSCREEN_POSITION {
+            get {
+                return ResourceManager.GetString("TOUCHSCREEN_POSITION", resourceCulture);
             }
         }
         
